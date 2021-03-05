@@ -1,4 +1,4 @@
-SMB Commands
+#SMB Commands
 
 Using nmap, the following commands can be used:
 nmap -p445 — script smb-protocols <target ip>
