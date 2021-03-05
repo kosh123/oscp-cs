@@ -1,8 +1,0 @@
-#SMB Commands
-
-Using nmap, the following commands can be used:
-nmap -p445 — script smb-protocols <target ip>
-nmap -p139 — script smb-protocols <target ip>
-
-Note: the ‘-sV’ and the ‘-sC’ tag can be used to run nmap automated scripts against SMB for enumeration as well. 
-
